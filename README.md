@@ -5,7 +5,7 @@ Moro em uma cidade do interior de SP chamada Macaubal;
 
 Minha professora do alura se chama Aline;
 
-SOu estudante da escola E.E Porfírio Pimentel;
+Sou estudante da escola E.E Porfírio Pimentel;
 
 Estou no Ensino Médio;
 
